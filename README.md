@@ -7,7 +7,7 @@ go build -o protosym main.go
 ## Запуск
 
 ```bash
-.\protosym.exe .\example.proto
+.\protosym .\example.proto
 ```
 
 ## Запуск тестов
